@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class HaruApplication {
-//git test3
+//git test4
 	public static void main(String[] args) {
 		SpringApplication.run(HaruApplication.class, args);
 	}
